@@ -1,0 +1,6 @@
+{
+  "name": "Fundació El Xiprer",
+  "website": "elxiprer.org",
+  "email": "info@elxiprer.org",
+  "password": "granollers"
+}

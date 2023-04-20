@@ -1,0 +1,14 @@
+{
+	"title": "Food recap",
+	"location": "E2°9'32.36  N41°23'19.64",
+	"organization": "Fundació el Xiprer",
+	"need_time" : "22/12/2024 @11.00am",
+	"help_time": "22/12/2025 @17.00am",
+	"need_description": "Eat food freely to fullfill your needs",
+	"help_description": "Help to share the food with people in need",
+	"need_requirements": "Starving",
+	"help_requirements": "Bring some food and be eager to help",
+	"need_tag": "food",
+	"help_tag": "food sharing",
+	"assistance": "yes"
+}
